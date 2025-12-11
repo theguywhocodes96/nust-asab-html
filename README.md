@@ -171,19 +171,11 @@ By completing this project, you will have learned:
 ## 🔗 External Resources
 
 - [NUST Official Website](https://nust.edu.pk)
-- [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
 
 ## 📄 License
 
 This project is created for educational purposes as part of a web development lab assignment.
 
-## 📞 Contact
-
-For questions or feedback about this project, please refer to the contact information provided on the webpage.
-
 ---
 
 **Note**: This page is created as a lab project for HTML assignment purposes.
-
-**Last Updated**: December 2024
